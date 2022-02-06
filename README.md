@@ -12,8 +12,8 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 Just launch the app and start typing.
 
@@ -23,7 +23,7 @@ I had a few issues at first with getting everything installed, and once that was
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Code-Path (I think)
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
